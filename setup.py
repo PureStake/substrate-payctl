@@ -13,7 +13,7 @@ REQUIRES_PYTHON = '>=3.6.0'
 VERSION = None
 LICENSE = 'MIT'
 REQUIRED = [
-    'substrate-interface>=0.13.3'
+    'substrate-interface>=1.1.9'
 ]
 
 here = os.path.abspath(os.path.dirname(__file__))
